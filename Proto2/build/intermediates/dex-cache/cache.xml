@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f2c6090c7b4d3dc4e2ed5008a5d2ef282555612a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\2f322de6fe84bc0fd135bebb08d8e69eab90f531\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_d71c20a6734601052401b826124923d36d7ba0f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\63b1fd92da24afc8e2068803a32ee131508b09e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_41f0e39e924adda36bab08939bbdbd808d2b5240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\13b2a752c62fbbbafd4aa26e305a550173015443\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_a1b3e936808809d6509452f33131dbb216d581a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\d1496ac14b4e3561a5c14e28e5eb6aae5763f07c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_69ff58963de4f5e1a4f8bad5adeb6eccd957b07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\bdec755a8861503c9844804f9be480bae95781a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_f6fbbc3b5e986348c6561ec0cc10696d4c79954a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\7eac67152febdb0ebf6aed3283d45a20555c02c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_e2518819febf757541b1448b44640621fe2d3b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\9aab9b8e154ce8a221a9c6efcd9dcdac95260818\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_5efa19faab12911f362cfdfd37e2a64f46ea0098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\32b24253292b3fa431adabe86264e3957dcc26a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_73bbbca020b9c1412d39d1b360ef593d7044ccfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\77713f4aa598b23845c3b5695a0ec4305e219b55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_b38da4231d228a811662b95511cca1d0808d8678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\62c3ad56b0979aeb0555a10ba7f88c370efa4a7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_d5d4e8548b9e2ed7255ef53643d5fbc65759d1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\d4f167f735e0a877347792524106cb393194001c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_4a09a5d93b80957cfdcad005980d70265ae2980b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\2a2a2e16844d398749094a80c122c7b6a06a1d15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_390f5c3085a55f62662404c9bd633324fbdc1113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brown\.android\build-cache\f37c56975c812e25d789a01b29a356182cc338e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5687d5d0a5cc1113f84a0477d8fdd3b91222d26e">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\pre-dexed\debug\classes_a2d8bdd77ff9e879916e206c0d95811b4b545587.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eeba3933480c404a3f5ddfefe293e9faf4b7c5ce">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a323fe5636bc9be45ae681be27fb7cf8be73f61d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Brown\AndroidStudioProjects\Proto2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_add30224a583688d4256d3f648d18935f52e3fdd\classes.dex" />
+    </item>
+
+</items>
